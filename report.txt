@@ -1,0 +1,5 @@
+CSV REPORT
+----------------------
+Number of rows: 0
+Total revenue: 0
+Average price: 0.00
